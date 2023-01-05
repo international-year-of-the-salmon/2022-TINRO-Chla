@@ -2,7 +2,7 @@
 
 🙋 Welcome to the repository for the chlorophyll-a and phaeopigment data collected by the R/V TINRO in 2022 as part of the International Year of the Salmon High Seas Expedition.
 
-🤖 See the metadata record for this dataset here: 
+🤖 See the metadata record for this dataset here: https://doi.org/10.21966/5S55-0M48
 
 🐟 The repository is structured as follows: 
   * `original_data` contains processed data files that have been sent to the IYS Data Scientists that have not been formatted to the IYS Data Template.
